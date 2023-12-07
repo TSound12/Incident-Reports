@@ -13,7 +13,7 @@ Greetings! I am an aspiring Cybersecurity Analyst with a passion for safeguardin
 - Utilized tools like tcpdump to identify the issue, examined website traffic, and captured evidence leading to the incident conclusion.
 - Documented the incident involving a deceptive website, malicious file delivery, and compromised user computers.
 
-#### [View Security Incident Report](Security_Incident_Report.pdf/README.md)
+#### [View Security Incident Report]([Security_Incident_Report.pdf/README.md](https://github.com/TSound12/Incident-Reports/blob/main/Security%20incident%20report.pdf))
 
 ### 2. Vulnerability Assessment Report
 
