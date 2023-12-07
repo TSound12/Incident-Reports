@@ -1,5 +1,3 @@
-Certainly! I've removed the numbers 6 and 7 from the project list:
-
 # Cybersecurity Analyst Portfolio
 
 ## Introduction
