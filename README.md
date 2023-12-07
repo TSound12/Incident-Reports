@@ -21,7 +21,7 @@ Greetings! I am an aspiring Cybersecurity Analyst with a passion for safeguardin
 - Conducted a Vulnerability Assessment of a server hosting a MySQL database management system.
 - Detailed system description, scope, purpose, risk assessment, and remediation strategy.
   
-#### [View Vulnerability Assessment Report](vulnerability_assessment/README.md)
+#### [View Vulnerability Assessment Report](vulnerability assessment report.pdf)
 
 ### 3. Security Risk Assessment Report
 
